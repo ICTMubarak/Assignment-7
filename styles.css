@@ -150,7 +150,7 @@ button {
 .card {
   display: flex;
   flex-direction: row;
-  width: 40%;
+  width: 30%;
   height: 100%;
   padding: 50px;
   display: flex;

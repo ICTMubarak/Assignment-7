@@ -4,7 +4,7 @@ function addHistory(questionText, timeTaken, errorCount) {
   const newRow = document.createElement("div");
   newRow.classList.add("card");
  //const timeSecond = Math.floor(Number.parseInt(timeTaken));
- console.log(timeSecond);
+ //console.log(timeSecond);
   newRow.innerHTML = `
   <h3>${questionText}</h3>
   <div>
